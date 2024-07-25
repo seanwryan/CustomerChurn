@@ -61,8 +61,3 @@ Future Work
 Further feature engineering and exploration of additional models like XGBoost or LightGBM.
 More sophisticated hyperparameter tuning techniques.
 Investigating additional techniques for handling class imbalance.
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
-
-License
-This project is licensed under the MIT License.
